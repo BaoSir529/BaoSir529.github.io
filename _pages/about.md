@@ -20,7 +20,7 @@ Sentiment Analysis
 Big Data Analytics and Mining
 
 
-Representative Publications[代表性刊物]
+Representative Publications
 ======
 1. aaa
 2. bbb
